@@ -1,1 +1,0 @@
-<?echo "<a href=\"index.php\">Home</a> | ";echo "<a href=\"sets.php\">Photosets</a> | ";echo "<a href=\"recent.php\">Recent Work</a> | ";echo "<a href=\"about.php\">About</a> | ";echo "<a href=\"tags.php\">Tags</a> | ";echo "<a href=\"contact.php\">Contact</a>";?>
