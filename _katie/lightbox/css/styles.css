@@ -1,0 +1,18 @@
+#gallery {
+	width: 950px;
+	margin: 0 auto;
+}
+
+.photos {
+	position: relative;
+	float: left;
+	display: block;
+	padding: 0 10px 0 10px;
+}
+.photosets {
+	clear: both;
+	padding-top: 1px;
+}
+.photosets h2 {
+	color: #000;
+}

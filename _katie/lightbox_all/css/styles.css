@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#gallery{
+	width:950px;
+	margin:0 auto;
+}
+
+#gallery ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#gallery li {
+	float: left;
+	margin: 10px;
+}
+#gallery li a {
+	color: #666666;
+}
